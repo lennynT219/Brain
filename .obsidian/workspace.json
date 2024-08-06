@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "5c87ecc7be7849ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b2c14fef1058c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b7a98a9fc536359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "limbo/1722914642-prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5642ef4e18492f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0fed69bdf4e5721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08bfaad59bc326fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fef5fd5dfbaec3f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bab749673be60675",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0bd85c61186a908d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09a321eb0e3e2d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b1f2ac074148661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "limbo/1722914642-prueba.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "577e4c054db13617",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "limbo/1722914642-prueba.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a2cd168a2788774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d09c3940e4c37a91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "limbo/1722914642-prueba.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5b7a98a9fc536359",
+  "lastOpenFiles": [
+    "templates/note.md~",
+    "templates/note.md",
+    "templates",
+    "Sis_Th/Presentación del sistema de Talento Humano.md",
+    "Sis_Th/Sidebar.md",
+    "limbo/1722914642-prueba.md",
+    "limbo/1722914642-prueba.md~",
+    "limbo",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Bienvenido.md",
+    "Sis_Th"
+  ]
+}
