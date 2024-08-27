@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b2c14fef1058c1",
+        "id": "91fcd28bfabdcc07",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7a98a9fc536359",
+            "id": "63a67f0c37d31539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "limbo/1722914642-prueba.md",
+                "file": "areas/Lenguajes/Markdown/1724467103-markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "limbo/1722914642-prueba.md",
+                "file": "areas/Lenguajes/Markdown/1724467103-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "limbo/1722914642-prueba.md",
+                "file": "areas/Lenguajes/Markdown/1724467103-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "limbo/1722914642-prueba.md"
+                "file": "areas/Lenguajes/Markdown/1724467103-markdown.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,20 +147,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08bfaad59bc326fe",
+  "active": "63a67f0c37d31539",
   "lastOpenFiles": [
-    "README.md",
-    "templates/note.md~",
-    "templates/note.md",
-    "templates",
+    "areas/Arquitectura de Software/1724454953-clean-architecture.md~",
+    "areas/Arquitectura de Software/4913",
+    "areas/Lenguajes/Markdown/1724467103-markdown.md~",
+    "areas/Lenguajes/Markdown/1724467103-markdown.md",
+    "Sintaxis.md",
+    "Sin título.md",
+    "areas/Lenguajes/Markdown/4913",
+    "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md~",
+    "areas/Arquitectura de Software/1724454953-clean-architecture.md",
+    "Movimiento del oponente",
+    "limbo/1724467103-markdown.md~",
+    "limbo/1724458207-hexagonal-architecture.md~",
+    "Arquitectura de Software/1724452934-arquitectura-de-software.md~",
+    "limbo/1724458207-hexagonal-architecture.md",
+    "limbo/1724458046-hexagonal-architecture.md",
+    "Arquitectura de Software/4913",
+    "limbo/1724457895-csr---renderizado-en-el-cliente.md",
+    "Arquitectura de Software/1724454953-clean-architecture.md",
+    "Arquitectura de Software/1724452934-arquitectura-de-software.md",
     "Sis_Th/Presentación del sistema de Talento Humano.md",
+    "templates/note.md",
     "Sis_Th/Sidebar.md",
-    "limbo/1722914642-prueba.md",
-    "limbo/1722914642-prueba.md~",
-    "limbo",
-    "Sin título 1.canvas",
     "Sin título.canvas",
-    "Bienvenido.md",
-    "Sis_Th"
+    "limbo/1724129431-arquitectura-y-patrn-de-diseo.md",
+    "limbo/1722914642-prueba.md",
+    "README.md",
+    "Sin título 1.canvas",
+    "Bienvenido.md"
   ]
 }
