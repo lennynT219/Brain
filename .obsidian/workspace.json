@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e93b7fefb858e1f1",
+        "id": "90d81cc1ec706135",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2ac5d76c45b8df",
+            "id": "7adc4ff17d17c50e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1724452934-arquitectura-de-software"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -88,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -99,7 +113,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -110,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -118,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sintaxis.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
             }
           }
         ],
@@ -138,14 +156,23 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "08bfaad59bc326fe",
+  "active": "7adc4ff17d17c50e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-27 22.11.43.excalidraw.md",
+    "Excalidraw",
+    "Sin título.canvas",
+    "2024-10-27.md",
+    "templates/note.md",
+    "limbo/1729206267-estructuras-java.md",
+    "Sintaxis.md",
     "Sin título.md",
     "areas/Lenguajes/Markdown/1724467103-markdown.md~",
-    "Sintaxis.md",
     "areas/Lenguajes/Markdown/1724467103-markdown.md",
     "areas/Arquitectura de Software/1724454953-clean-architecture.md~",
     "areas/Arquitectura de Software/4913",
@@ -158,14 +185,11 @@
     "Arquitectura de Software/1724452934-arquitectura-de-software.md~",
     "limbo/1724458207-hexagonal-architecture.md",
     "limbo/1724458046-hexagonal-architecture.md",
-    "Arquitectura de Software/4913",
     "limbo/1724457895-csr---renderizado-en-el-cliente.md",
     "Arquitectura de Software/1724454953-clean-architecture.md",
     "Arquitectura de Software/1724452934-arquitectura-de-software.md",
     "Sis_Th/Presentación del sistema de Talento Humano.md",
-    "templates/note.md",
     "Sis_Th/Sidebar.md",
-    "Sin título.canvas",
     "limbo/1724129431-arquitectura-y-patrn-de-diseo.md",
     "limbo/1722914642-prueba.md",
     "README.md",
