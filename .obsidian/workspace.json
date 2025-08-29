@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc88f9efd6eda22",
+        "id": "884d55ba88600de6",
         "type": "tabs",
         "children": [
           {
-            "id": "355a77ff1bc30262",
+            "id": "2d47a52a3cdd86b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -155,15 +155,21 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "355a77ff1bc30262",
+  "active": "2d47a52a3cdd86b8",
   "lastOpenFiles": [
+    "limbo/1756502611-git-y-github.md",
+    "limbo/1756502792-github.md",
+    "limbo/1756502792-github.md~",
+    "limbo/1756481085-git.md",
+    "limbo/1756481085-git.md~",
+    "Sin título.base",
+    "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md",
+    "areas/Arquitectura de Software/1724458207-hexagonal-architecture.md",
     "limbo/1729206267-estructuras-java.md",
     "OneNote",
-    "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md",
     "Excalidraw/Drawing 2024-10-27 22.11.43.excalidraw.md",
     "Excalidraw",
     "Sin título.canvas",
@@ -178,9 +184,6 @@
     "areas/Lenguajes/Markdown/4913",
     "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md~",
     "areas/Arquitectura de Software/1724454953-clean-architecture.md",
-    "Movimiento del oponente",
-    "limbo/1724467103-markdown.md~",
-    "limbo/1724458207-hexagonal-architecture.md~",
     "limbo/1724458207-hexagonal-architecture.md",
     "limbo/1724458046-hexagonal-architecture.md",
     "limbo/1724457895-csr---renderizado-en-el-cliente.md",
