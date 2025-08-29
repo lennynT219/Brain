@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "90d81cc1ec706135",
+        "id": "1bc88f9efd6eda22",
         "type": "tabs",
         "children": [
           {
-            "id": "7adc4ff17d17c50e",
+            "id": "355a77ff1bc30262",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1724452934-arquitectura-de-software"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -151,6 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -158,18 +156,19 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7adc4ff17d17c50e",
+  "active": "355a77ff1bc30262",
   "lastOpenFiles": [
+    "limbo/1729206267-estructuras-java.md",
+    "OneNote",
+    "areas/Arquitectura de Software/1724452934-arquitectura-de-software.md",
     "Excalidraw/Drawing 2024-10-27 22.11.43.excalidraw.md",
     "Excalidraw",
     "Sin título.canvas",
     "2024-10-27.md",
     "templates/note.md",
-    "limbo/1729206267-estructuras-java.md",
     "Sintaxis.md",
     "Sin título.md",
     "areas/Lenguajes/Markdown/1724467103-markdown.md~",
@@ -182,7 +181,6 @@
     "Movimiento del oponente",
     "limbo/1724467103-markdown.md~",
     "limbo/1724458207-hexagonal-architecture.md~",
-    "Arquitectura de Software/1724452934-arquitectura-de-software.md~",
     "limbo/1724458207-hexagonal-architecture.md",
     "limbo/1724458046-hexagonal-architecture.md",
     "limbo/1724457895-csr---renderizado-en-el-cliente.md",

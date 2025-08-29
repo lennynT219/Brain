@@ -7,33 +7,6 @@ tags: []
 
 # Comandos importantes
 
-<!--toc:start-->
-- [Comandos importantes](#comandos-importantes)
-  - [Comandos de activacion](#comandos-de-activacion)
-    - [Office](#office)
-  - [Comandos de instalación](#comandos-de-instalación)
-    - [Nvim](#nvim)
-    - [Git](#git)
-    - [Chocolatey](#chocolatey)
-    - [Lazygit](#lazygit)
-    - [Fd](#fd)
-    - [Ripgrep](#ripgrep)
-    - [Zig](#zig)
-    - [Zoxide](#zoxide)
-    - [Starship](#starship)
-    - [Maven](#maven)
-    - [Jabba](#jabba)
-    - [Mingw](#mingw)
-    - [Fzf](#fzf)
-    - [Make](#make)
-    - [Fnm](#fnm)
-    - [Terminal-Icons](#terminal-icons)
-    - [Bun](#bun)
-    - [Scoope](#scoope)
-    - [Openssl](#openssl)
-    - [Cloudflare](#cloudflare)
-<!--toc:end-->
-
 ## Comandos de activacion
 
 ### Office
@@ -42,7 +15,27 @@ tags: []
 irm https://get.activated.win | iex
 ```
 
-## Comandos de instalación
+## Instalación lenguajes de programacion
+
+### Fnm - Node
+
+```bash
+winget install --id Schniz.fnm -e --source winget
+```
+
+### Bun
+
+```bash
+powershell -c "irm bun.sh/install.ps1|iex"
+```
+
+### Go
+
+```bash
+
+```
+
+## Instalación complementos
 
 ### Nvim
 
@@ -105,16 +98,6 @@ winget install --id=Starship.Starship
 choco install maven
 ```
 
-### Jabba
-
-```bash
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-Invoke-Expression (Invoke-WebRequest
-https://github.com/shyiko/jabba/raw/master/install.ps1 -UseBasicParsing).Content
-
-choco install jabba
-```
-
 ### Mingw
 
 ```bash
@@ -133,23 +116,11 @@ choco install fzf
 winget install --id GnuWin32.Make -e --source winget
 ```
 
-### Fnm
-
-```bash
-winget install --id Schniz.fnm -e --source winget
-```
-
 ### Terminal-Icons
 
 ```bash
 Install-Module -Name Terminal-Icons -Repository PSGallery
 Import-Module Terminal-Icons
-```
-
-### Bun
-
-```bash
-powershell -c "irm bun.sh/install.ps1|iex"
 ```
 
 ### Scoope
